@@ -1,0 +1,61 @@
+.ankit {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #344451;
+}
+
+.ank{
+    color:#0398d4;
+    font-size: medium;
+}
+
+ .ank1 {
+     background-color: whitesmoke;
+     display: flex;
+     justify-content: center;
+     gap: 12px;
+     /* padding-left: 3px; */
+     border-radius: 2px;
+     font-size: 25px;
+     color: #344151;
+ }
+
+ .ank2 {
+     border-radius: 2px;
+     text-align: center;
+     width: 20px;
+     border-color: black;
+     font-size: 14px;
+     border-right: #344151;
+     
+ }
+
+ .ank3{
+    border-radius: 2px;
+    text-align: center;
+    width: 20px;
+    border-color: black;
+    font-size: 14px;
+    border-left: #344151;
+    
+ }
+
+ .ank4 {
+     font-size: large;
+     gap: 10px;
+     
+ }
+
+ .ank5 {
+     background-color: #0398d4;
+     color: white;
+     padding-top: 5px;
+     padding-bottom: 2px;
+     border-radius: 10px;
+     font-size: large;
+ }
